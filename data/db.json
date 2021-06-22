@@ -17,6 +17,12 @@
       "body": "Luigi is my brother.",
       "author": "mario",
       "id": 5
+    },
+    {
+      "title": "Yoshi's Island",
+      "body": "Fruit!",
+      "author": "yoshi",
+      "id": 6
     }
   ]
 }
